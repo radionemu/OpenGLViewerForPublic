@@ -34,3 +34,4 @@ shader translator supports
  - HLSL Cross Compiler
  - SPIR-V Cross
  - DirectX Shader Compiler(DXC)
+This section is now separated into a brand-new project named VISKO
