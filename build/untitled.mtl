@@ -1,0 +1,32 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Avatar_Girl_Pole_Hutao_Mat_Body
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd GenshinImpact_HuTao/Textures/Avatar_Girl_Pole_Hutao_Tex_Body_Diffuse.png
+map_d GenshinImpact_HuTao/Textures/Avatar_Girl_Pole_Hutao_Tex_Body_Diffuse.png
+
+newmtl Avatar_Girl_Pole_Hutao_Mat_Face
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd GenshinImpact_HuTao/Textures/Avatar_Girl_Pole_Hutao_Tex_Face_Diffuse.png
+map_d GenshinImpact_HuTao/Textures/Avatar_Girl_Pole_Hutao_Tex_Face_Diffuse.png
+
+newmtl Avatar_Girl_Pole_Hutao_Mat_Hair
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd GenshinImpact_HuTao/Textures/Avatar_Girl_Pole_Hutao_Tex_Hair_Diffuse.png
+map_d GenshinImpact_HuTao/Textures/Avatar_Girl_Pole_Hutao_Tex_Hair_Diffuse.png

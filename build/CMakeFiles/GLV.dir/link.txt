@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\GLV.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\GLV.dir/objects.a @CMakeFiles\GLV.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -static-libgcc -static-libstdc++ -Wl,--whole-archive CMakeFiles\GLV.dir/objects.a -Wl,--no-whole-archive -o GLV.exe -Wl,--out-implib,libGLV.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GLV.dir\linkLibs.rsp

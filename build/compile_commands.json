@@ -1,0 +1,350 @@
+[
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\Sample_main.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\Sample_main.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/Sample_main.cpp",
+  "output": "CMakeFiles/GLV.dir/Sample_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\loadshader.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\loadshader.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/loadshader.cpp",
+  "output": "CMakeFiles/GLV.dir/general/loadshader.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\objloader.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\objloader.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/objloader.cpp",
+  "output": "CMakeFiles/GLV.dir/general/objloader.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\mtlloader.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\mtlloader.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/mtlloader.cpp",
+  "output": "CMakeFiles/GLV.dir/general/mtlloader.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\texture.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\texture.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/texture.cpp",
+  "output": "CMakeFiles/GLV.dir/general/texture.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVBuffer\\IndexBuffer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVBuffer\\IndexBuffer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVBuffer/IndexBuffer.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVBuffer/IndexBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVBuffer\\VertexBuffer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVBuffer\\VertexBuffer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVBuffer/VertexBuffer.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVBuffer/VertexBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVVertexArray\\VertexArray.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVVertexArray\\VertexArray.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVVertexArray/VertexArray.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVVertexArray/VertexArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVVertexArray\\BufferLayout.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVVertexArray\\BufferLayout.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVVertexArray/BufferLayout.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVVertexArray/BufferLayout.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVBuffer\\UniformBuffer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVBuffer\\UniformBuffer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVBuffer/UniformBuffer.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVBuffer/UniformBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVBuffer\\AbsBuffer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVBuffer\\AbsBuffer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVBuffer/AbsBuffer.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVBuffer/AbsBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVBuffer\\FrameBuffer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVBuffer\\FrameBuffer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVBuffer/FrameBuffer.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVBuffer/FrameBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVFileLoad\\FileManager.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVFileLoad\\FileManager.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVFileLoad/FileManager.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVFileLoad/FileManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\general\\GLVFileLoad\\GLVFile.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\general\\GLVFileLoad\\GLVFile.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/general/GLVFileLoad/GLVFile.cpp",
+  "output": "CMakeFiles/GLV.dir/general/GLVFileLoad/GLVFile.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\Manager\\sysRsrcManager.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\Manager\\sysRsrcManager.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/Manager/sysRsrcManager.cpp",
+  "output": "CMakeFiles/GLV.dir/source/Manager/sysRsrcManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVUI\\SceneView.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVUI\\SceneView.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVUI/SceneView.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVUI/SceneView.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\IMGuiDocking\\backends\\imgui_impl_win32.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\IMGuiDocking\\backends\\imgui_impl_win32.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/IMGuiDocking/backends/imgui_impl_win32.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/IMGuiDocking/backends/imgui_impl_win32.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\IMGuiDocking\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\IMGuiDocking\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/IMGuiDocking/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/IMGuiDocking/backends/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\IMGuiDocking\\imgui.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\IMGuiDocking\\imgui.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/IMGuiDocking/imgui.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/IMGuiDocking/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\IMGuiDocking\\imgui_draw.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\IMGuiDocking\\imgui_draw.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/IMGuiDocking/imgui_draw.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/IMGuiDocking/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\IMGuiDocking\\imgui_demo.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\IMGuiDocking\\imgui_demo.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/IMGuiDocking/imgui_demo.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/IMGuiDocking/imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\IMGuiDocking\\imgui_tables.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\IMGuiDocking\\imgui_tables.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/IMGuiDocking/imgui_tables.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/IMGuiDocking/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\IMGuiDocking\\imgui_widgets.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\IMGuiDocking\\imgui_widgets.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/IMGuiDocking/imgui_widgets.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/IMGuiDocking/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\allocator.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\allocator.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/allocator.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/allocator.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\clusterizer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\clusterizer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/clusterizer.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/clusterizer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\indexcodec.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\indexcodec.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/indexcodec.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/indexcodec.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\indexgenerator.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\indexgenerator.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/indexgenerator.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/indexgenerator.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\overdrawanalyzer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\overdrawanalyzer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/overdrawanalyzer.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/overdrawanalyzer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\simplifier.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\simplifier.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/simplifier.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/simplifier.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\spatialorder.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\spatialorder.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/spatialorder.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/spatialorder.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\stripifier.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\stripifier.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/stripifier.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/stripifier.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\vcacheanalyzer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\vcacheanalyzer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/vcacheanalyzer.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/vcacheanalyzer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\vcacheoptimizer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\vcacheoptimizer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/vcacheoptimizer.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/vcacheoptimizer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\vertexcodec.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\vertexcodec.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/vertexcodec.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/vertexcodec.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\vertexfilter.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\vertexfilter.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/vertexfilter.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/vertexfilter.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\vfetchanalyzer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\vfetchanalyzer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/vfetchanalyzer.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/vfetchanalyzer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\externals\\gltf\\meshoptimizer\\vfetchoptimizer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\externals\\gltf\\meshoptimizer\\vfetchoptimizer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/externals/gltf/meshoptimizer/vfetchoptimizer.cpp",
+  "output": "CMakeFiles/GLV.dir/externals/gltf/meshoptimizer/vfetchoptimizer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVElement.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVElement.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVElement.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVElement.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVMesh.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVMesh.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVMesh.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVMesh.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVCamera.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVCamera.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVCamera.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVCamera.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVMaterial.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVMaterial.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVMaterial.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVMaterial.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVMeshes.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVMeshes.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVMeshes.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVMeshes.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVNode.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVNode.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVNode.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVNode.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVPrimitive.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVPrimitive.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVPrimitive.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVPrimitive.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVScene.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVScene.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVScene.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVScene.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVgltf\\GLVTexture.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVgltf\\GLVTexture.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVgltf/GLVTexture.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVgltf/GLVTexture.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\GLVWin32\\GLVWindow.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\GLVWin32\\GLVWindow.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/GLVWin32/GLVWindow.cpp",
+  "output": "CMakeFiles/GLV.dir/GLVWin32/GLVWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\Context\\imgui_context.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\Context\\imgui_context.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/Context/imgui_context.cpp",
+  "output": "CMakeFiles/GLV.dir/source/Context/imgui_context.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\Context\\render_context.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\Context\\render_context.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/Context/render_context.cpp",
+  "output": "CMakeFiles/GLV.dir/source/Context/render_context.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\UIComponent\\Hierarchy.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\UIComponent\\Hierarchy.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/UIComponent/Hierarchy.cpp",
+  "output": "CMakeFiles/GLV.dir/source/UIComponent/Hierarchy.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\UIComponent\\Inspector.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\UIComponent\\Inspector.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/UIComponent/Inspector.cpp",
+  "output": "CMakeFiles/GLV.dir/source/UIComponent/Inspector.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\UIComponent\\Scene.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\UIComponent\\Scene.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/UIComponent/Scene.cpp",
+  "output": "CMakeFiles/GLV.dir/source/UIComponent/Scene.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\WindowManager\\WinManager.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\WindowManager\\WinManager.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/WindowManager/WinManager.cpp",
+  "output": "CMakeFiles/GLV.dir/source/WindowManager/WinManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\SceneView\\camera.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\SceneView\\camera.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/SceneView/camera.cpp",
+  "output": "CMakeFiles/GLV.dir/source/SceneView/camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\SceneView\\renderer.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\SceneView\\renderer.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/SceneView/renderer.cpp",
+  "output": "CMakeFiles/GLV.dir/source/SceneView/renderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\SceneView\\trackball.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\SceneView\\trackball.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/SceneView/trackball.cpp",
+  "output": "CMakeFiles/GLV.dir/source/SceneView/trackball.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\UV\\TexturePresampler.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\UV\\TexturePresampler.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/UV/TexturePresampler.cpp",
+  "output": "CMakeFiles/GLV.dir/source/UV/TexturePresampler.cpp.obj"
+},
+{
+  "directory": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/GLV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GLV.dir\\source\\UV\\MatPrevRender.cpp.obj -c C:\\Users\\VRLABS\\Documents\\GitHub\\OpenGLViewer\\source\\UV\\MatPrevRender.cpp",
+  "file": "C:/Users/VRLABS/Documents/GitHub/OpenGLViewer/source/UV/MatPrevRender.cpp",
+  "output": "CMakeFiles/GLV.dir/source/UV/MatPrevRender.cpp.obj"
+}
+]
