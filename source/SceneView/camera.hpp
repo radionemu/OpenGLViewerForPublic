@@ -68,6 +68,9 @@ namespace SceneView
         glm::mat4 getMVP();
         glm::mat4 getView(){return mVMat;}
         glm::mat4 getProj(){return mPMat;}
+        glm::mat4 getWorld(){return mWMat;}
+        glm::mat4 getModel(){return mMMat;}
+        glm::vec3 getcamPos(){return camPos;}
     };
 
 } // namespace Scene

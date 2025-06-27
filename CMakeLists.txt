@@ -2,6 +2,9 @@ cmake_minimum_required(VERSION 3.10)
 project(GLV)
 
 set(CMAKE_CXX_STANDARD 17)
+add_compile_options(-m64)
+set(CMAKE_CXX_FLAGS -m64)
+
 set(OPENGL_PROFILE GLCORE)
 
 set(SRC_DIR ./source)
@@ -91,7 +94,6 @@ set(GLV_DIR ./general)
 set(GLVGLTF_DIR ./GLVgltf)
 set(GLVGLTFHEAD_DIR
     ${GLVGLTF_DIR}/GLVElement.cpp
-    ${GLVGLTF_DIR}/GLVMesh.cpp
     ${GLVGLTF_DIR}/GLVCamera.cpp
     ${GLVGLTF_DIR}/GLVMaterial.cpp
     ${GLVGLTF_DIR}/GLVMeshes.cpp

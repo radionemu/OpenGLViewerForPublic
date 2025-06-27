@@ -55,30 +55,57 @@ void SceneView::renderer::draw()
             glm::vec4 pbrc = glm::vec4(0.0f);
             if(nPrim->hasMaterial()){
                 GLVGLTF::GLVMaterial *nMat = nPrim->getMaterial();
+                //albedo
                 if(!nMat->isBaseClrUVEmpty()){
+                    glActiveTexture(GL_TEXTURE0);
                     if(!nMat->isBaseClrTmpEmpty()){
-                        glActiveTexture(GL_TEXTURE0);
                         glBindTexture(GL_TEXTURE_2D, nMat->getBaseClrUVTmp());
-                        glUniform1i(glGetUniformLocation(mShader->getProgramID(), "TextureSampler"),0);                        
                     }else{
-                        glActiveTexture(GL_TEXTURE0);
                         glBindTexture(GL_TEXTURE_2D, nMat->getBaseClrUV());
-                        glUniform1i(glGetUniformLocation(mShader->getProgramID(), "TextureSampler"),0);
                     }
-                    pbrc = *nMat->getBaseClrFactor();
-                }else{
-                    pbrc = *nMat->getBaseClrFactor();
+                    glUniform1i(10,0);
+                }
+                //metalrough
+                if(!nMat->isMetalRoughUVEmpty()){
+                    glActiveTexture(GL_TEXTURE1);
+                    if(!nMat->isMetalRoughTmpEmpty()){
+                        glBindTexture(GL_TEXTURE_2D, nMat->getMetalRoughUVTmp());
+                    }else{
+                        glBindTexture(GL_TEXTURE_2D, nMat->getMetRoughUV());
+                    }
+                    glUniform1i(11,1);
+                }
+                //normal
+                if(!nMat->isNormalUVEmpty()){
+                    glActiveTexture(GL_TEXTURE2);
+                    if(!nMat->isNormalTmpEmpty()){
+                        glBindTexture(GL_TEXTURE_2D, nMat->getNormalUVTmp());
+                    }else{
+                        glBindTexture(GL_TEXTURE_2D, nMat->getNormalUV());
+                    }
+                    glUniform1i(12,2);
+                }
+                //occlusion
+                if(!nMat->isOcclusionUVEmpty()){
+                    glActiveTexture(GL_TEXTURE3);
+                    if(!nMat->isOcclusionTmpEmpty()){
+                        glBindTexture(GL_TEXTURE_2D, nMat->getOcclusionUVTmp());
+                    }else{
+                        glBindTexture(GL_TEXTURE_2D, nMat->getOcclusionUV());
+                    }
+                    glUniform1i(13,3);
+                }
+                //emissive
+                if(!nMat->isEmissiveUVEmpty()){
+                    glActiveTexture(GL_TEXTURE4);
+                    if(!nMat->isEmissiveTmpEmpty()){
+                        glBindTexture(GL_TEXTURE_2D, nMat->getEmissiveUVTmp());
+                    }else{
+                        glBindTexture(GL_TEXTURE_2D, nMat->getEmissiveUV());
+                    }
+                    glUniform1i(14,4);
                 }
             }
-            
-            UniformBuffer ubo;
-            ubo.Bind();
-            ubo.AddData(&(mCamera->getMVP())[0], sizeof(glm::mat4));
-            ubo.FillData(0);
-            UniformBuffer ubo2;
-            ubo2.Bind();
-            ubo2.AddData(&(pbrc)[0], sizeof(glm::vec4));
-            ubo2.FillData(1);
 
             //Bind vao
             nPrim->Bind();
